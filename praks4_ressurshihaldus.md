@@ -1,5 +1,11 @@
 Praktikum 4 lahendus:
 
+Kahjuks ei saanud oma lahendust Courses lehel lõpetada, sest serveri errorid tulid. 
+
+"Selles praktikumis tutvume operatsioonisüsteemi ressurssidega. Selleks õpime tundma erinevaid tööriistu nii Linuxi kui Windowsi all. Unixis on alati olnud traditsiooniks terminali sagedasem kasutamine kui Windowsis."
+
+Vastused:
+
 |Küsimus|Linux|Windows|Linuxis kasutatud käsklus|Windowsis kasutatud tööriist|
 |---|---|---|---|---|
 |Mitu protsessi kokku arvutis käib?|214|227|ps -aux l (asendab kriipsu) wc -l|Tegumihaldur - > Jõudlus -> Protsessid|
@@ -19,7 +25,7 @@ Praktikum 4 lahendus:
 |Sõber kurdab, et tema arvuti on oluliselt aeglasem kui varasemalt. Millise programmiga ja millise parameetrite abil saate tuvastada milline protsess või teenus muudab arvuti aeglaseks?|Vaatame, mis tekkinud tabelis veerus %CPU kõige esimene tulemus on/suurima protsendiga on ja selle protsessi peaks sulgema.|Selles aknas olevat tabelit tuleb sorteerida Protsessori % järgi. Suurima protsendiga protsess/protsessid tuleks peatada.|top|Tegumihaldur -> Protsessid|
 
 
-Iris Kreinin Oktoober 6, 2022, at 23:14
+Iris Kreinin Oktoober 6, 2022, at 23:22
 
 12. küsimuse pildid:
 <img width="461" alt="12 1 küsimus_IK" src="https://user-images.githubusercontent.com/60475987/194409560-67da37dc-dbad-4326-90cd-f421f4b22921.png">
